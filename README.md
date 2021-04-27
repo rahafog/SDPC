@@ -1,1 +1,3 @@
-### Start up project that uses the AI Algorthims
+###SDPC ( Social Distancing and People Counting )
+** Start up project that use the AI Algorthims ** 
+
