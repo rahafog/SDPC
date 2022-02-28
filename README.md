@@ -1,4 +1,4 @@
 ### SDPC ( Social Distancing and People Counting )
 
-**Start up project that use the AI Algorithms** 
+**Start up project that used the AI Algorithms** 
 
